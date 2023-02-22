@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StreamingSample.Client": {
+      "commandName": "Project",
+      "commandLineArgs": "https://localhost:7201 hoge"
+    }
+  }
+}
